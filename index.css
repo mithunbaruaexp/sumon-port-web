@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+}
+
+.header__section {
+  /* height: 50vh; */
+  /* background-color: #1e1e1e; */
+}
+.top__banner {
+  background-color: #1e1e1e;
+  display: flex;
+  justify-content: center;
+}
+.half__width {
+  /* margin: 0 0 50px 50px; */
+  height: 50vh;
+  width: 40%;
+}
+.last__width {
+  background: url(sumon1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 40px;
+}
+p {
+  text-align: left;
+  margin-top: 50px;
+  font-size: 20px;
+}
+h1,
+h2,
+p {
+  color: white;
+}
+.text {
+  color: pink;
+}
+.first__width {
+  padding-top: 50px;
+  /* padding-bottom: 50px; */
+}
